@@ -1,6 +1,6 @@
 # Fake-News-Detection
 
-#Used Modules or Library
+#Used Modules or Library <br>
 1.Streamlit - It's very easy to use and allows you to quickly turn a Python script into a web-based app with minimal effort.
 2.Regular expression - The re module provides a set of functions that allow you to search, match, and manipulate strings based on patterns.
 3.Pandas - It provides data structures (like DataFrame and Series) that allow you to efficiently handle and analyze large datasets.
